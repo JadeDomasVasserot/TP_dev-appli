@@ -1,0 +1,169 @@
+* {​margin: 0; padding: 0;}​	
+
+}
+#body {
+
+}
+.buttonmain {
+	float: right;
+	font-family: Graphik Meetup, serif;
+	font-weight: 600;
+	font-size: 14px;
+    max-width: 20vw;
+
+}
+
+.header {
+	display: block;
+	text-align: center;
+	color: white;
+	overflow: hidden;
+	height: 400px;
+	width: 100%;
+
+
+	
+}
+.header video {
+	display: inline;
+	width: 100%;
+
+
+}
+.H1 {
+	position: absolute;
+	top: 40%; 
+	left: 30%;
+	font-weight: bold;
+	display: inline;
+	
+}
+.headertext {
+	position: absolute;
+	top: 52%; 
+	left: 20%;
+	display: inline;
+	font-weight: bold;
+
+
+}
+.buttonrejoindre a:visited {
+	color:  white;
+	text-align: -webkit-center;
+	vertical-align: center;
+	stroke:  transparent;
+
+
+
+
+
+
+}
+.buttonrejoindre {
+	display: block-inline;
+	background-color: #f13a59;
+	width: 300px;
+	height: 40px;
+	position: absolute;
+	top: 60%; 
+	left: 40%;
+	border-radius: 10px;	
+
+
+
+}
+.Menu ul li{
+	display: inline-flex;
+	background-color: #E7E7E7;
+	border-style: #000000;
+	border:groove;
+	border-radius: 5px;
+	padding : 10px;
+	margin-left: 10px;
+
+
+
+}
+.Menu a:visited {
+	color: gray;
+
+}
+.section {
+	display: inline-block;
+	border-style: groove;
+	width : 100%;
+
+
+
+}
+.article1 {
+	display: inline-block;
+	border-style: groove;
+	border-radius: 5px;	
+}
+.article2 {
+	display: inline-block;
+
+	border-style: groove;
+	border-radius: 5px;
+}
+.article3 {
+	display: inline-block;
+
+	border-style: groove;
+	border-radius: 5px;	
+
+	}
+
+.section2 {
+	display: inline-block;
+	border-style: groove;
+	width : 100%;
+	border-radius: 5px;
+
+
+}
+.section2 img{
+	border-radius: 5px;
+
+}
+.groupe1 {
+	display: inline-block;
+	border-style: groove;
+	width: 250px;
+	height : 300px;
+	border-radius: 5px;
+
+
+}
+.groupe2 {
+	display: inline-block;
+	border-style: groove;
+	width: 250px;
+	height : 300px;
+	border-radius: 5px;
+
+
+}
+.groupe3 {
+	display: inline-block;
+	border-style: groove;
+	width: 250px;
+	height : 300px;
+	border-radius: 5px;
+}
+.groupe4 {
+	display: inline-block;
+	border-style: groove;
+	width: 250px;
+	height : 300px;
+	border-radius: 5px;	
+}
+
+
+
+}
+
+.footer {
+	background-color: blue;
+}

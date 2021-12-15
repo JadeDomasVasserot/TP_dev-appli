@@ -1,0 +1,28 @@
+body {
+	margin: 0;
+	padding: 0;
+	background: url(https://www.joinville-le-pont.fr/wp-content/uploads/2020/03/election-et-coronavirus.jpg)fixed;
+	background-size: 100%;
+}
+form {
+	text-align: center;
+    background-color: #00000070;
+    color: white;
+    font-weight: 800;
+    font-size: 20px;
+    padding : 30px;
+}
+input {
+	padding : 10px;
+}
+h1 {
+	text-align: center;
+    text-decoration: underline;
+}
+p  {
+	background-color: #00000070;
+    color: white;
+    font-weight: 800;
+    font-size: 20px;
+    text-align: center;
+}
